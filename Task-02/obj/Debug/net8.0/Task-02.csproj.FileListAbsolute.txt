@@ -1,0 +1,14 @@
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\bin\Debug\net8.0\Task-02.exe
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\bin\Debug\net8.0\Task-02.deps.json
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\bin\Debug\net8.0\Task-02.runtimeconfig.json
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\bin\Debug\net8.0\Task-02.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\bin\Debug\net8.0\Task-02.pdb
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.AssemblyInfoInputs.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.AssemblyInfo.cs
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.csproj.CoreCompileInputs.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\refint\Task-02.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.pdb
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\Task-02.genruntimeconfig.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\Task-02\Task-02\obj\Debug\net8.0\ref\Task-02.dll
